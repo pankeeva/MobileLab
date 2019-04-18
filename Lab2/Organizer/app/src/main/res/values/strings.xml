@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Organizer</string>
+    <string name="note">note</string>
+    <string name="notes">Notes</string>
+    <string name="note1">Note 1</string>
+    <string name="note2">Note 2</string>
+    <string name="note3">Note 3</string>
+    <string name="note4">Note 4</string>
+    <string name="note5">Note 5</string>
+    <string name="edit">Edit</string>
+    <string name="plus">+</string>
+    <string name="delete">Delete</string>
+    <string name="indicator">indicator</string>
+</resources>
